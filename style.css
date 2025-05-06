@@ -169,9 +169,11 @@ hr {
 .amount1 p{
     font-size: 0.95em;
     color: red;
+    font-family: sans-serif;
 }
 
 .amount2 p{
     font-size: 0.95em;
     color: rgb(0, 163, 0);
+    font-family: sans-serif;
 }
